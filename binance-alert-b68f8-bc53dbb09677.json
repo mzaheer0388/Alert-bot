@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "binance-alert-b68f8",
+  "private_key_id": "bc53dbb096774a148b955384bb5890b45682b01a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDnzw5+FHy+7ZSM\nZ12XEhyJzNuVMsZMt49HyKuvP+uMlLBK5fSAgbm269vtFKWsT7zE2PsAB12AWc94\nXWliw+Ve7+38DVlDxq7BTay1JfLqprCVZMHHVZFg2oppc14PAlfqq8wJwfee91+O\nTInF6GxfXiPWQ7HcvbPeYWECbHURxhEDPe9oyE+GSIpSZwGQod9awqeoGWF9g8ig\ntG4NxN2ElInqI0iLGPdVJA6+CKyhGALCcZ/16U23RrjneIXzTnH7E5RQtC9yOaC4\nHZ35xBqvprxn8en3ePrKG3fKCgls9LRAara/teb7zgl3Qy1YVcmQzVweasPdDVIY\n7aMmvdbzAgMBAAECggEABHoy2PY+Aeq71km+0dwB3MWDWOqN+vhcAPJxd8/qavY0\n64AX4g2KD+xBUgnL42aiNO54oU5YcidfQv9m5DH4HFvSWG53ksAOgGGm3CmF+3NJ\nxjDtLz5KBw624q+IRGOdXW/WX+U1Clx+e39N9UUhJrxo68q175djFytWq4HQcbiS\nEppxHPBhDT0EVgBFVE4F1M2/iyEAy2T2nl5who2MjuES4b825ClWYiw0R2iFdfQM\nW0/L2LKxN7uZ6uo7kgdTT6R3N86zf1HMPXdHGaqv/XCXyCebhsb7Bpys0DvuhN9C\nE0FkzOoQQozcYCkZcnWYThNXwr6nrNfC2WsZpTOVjQKBgQD2wtkpauxrD40EYNvu\n7FYa0eLxIVmfSXAHT1iJ9COHjw3EefAp5SAYHfU+RJIng6AAEeol5FsTWlZPfaWB\nz1Fbc8XVjcys9MkzwJo5+RYoIdwhWOEpPr+j6+JLnzVdfN62Kss1/vOIAlapIqqu\n5h5O0A62dvS4Jp5cN7JlOvfxVwKBgQDwfOTHvBlxMqpaBT1p9bFur5YhEDpdPWU4\niZpna/W2z+Ip9AojdbErWzJ/hc5io3vKU70BGPaQ+Et0vEX92iAS7a5xfBqDZVjJ\nERfAtNluQ6eBmBqxedORqr8rpXjwZscHc7zQ8hDFQBco2G0o0e8xeXWjcg20/I48\nHw8kG7l5xQKBgQC7kmdyxVVLGHoQHvRvjHTzVCIXO0ud+jvPQrBBxTQQwlwrwqkd\nn46i5nraR1N19+byxqte/FOCxYOgTxk1MHtecgWrDGvN+RDMZxaVBNOj1AE51A7r\nxEf2ecL9ytrM4rOEc8kelVtXQrfPP4vRARl+vUbBynDBXpG39ZqEuqtoZwKBgHw8\nCPQl9/7Cbb6TdmaGxmKn0qbB+2SvktriOyGyY/1M50lFCPfIlP4Q3sWCGlxamFit\nabZnbvj1TAXCPWYmiOs+Xh/CPPAkKvm0GtEynCCaUq5gJWoJxYI68wdZNGD8t1Ti\nNWi7pG5B7bTsGXg8+5RTarJE+U/GKLRmVywQJoEBAoGAFMzssqRE4bMyus4jvtLD\nMMmtSegJLPPiehvpbIR+AwzFlP14JYJ6Ytdend2L8+SqqZrP/9kW1iMbXG+vfhmA\nyDI9stj1YGb++bwB4uSWjB8kqb2IghaxINvHqjbX94IOoRJJl4Xb3WHTQdkcQR4N\n71xbq51hnGnbMBWYGPKRQ6A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@binance-alert-b68f8.iam.gserviceaccount.com",
+  "client_id": "115016353540848912682",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40binance-alert-b68f8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

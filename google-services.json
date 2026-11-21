@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190866414834",
+    "project_id": "binance-alert-b68f8",
+    "storage_bucket": "binance-alert-b68f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190866414834:android:42c2b33b36e1787ce9046b",
+        "android_client_info": {
+          "package_name": "com.binance.alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx8mm9HfQCLVhbyv7msV-bzjlIPgheIkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
